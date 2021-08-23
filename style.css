@@ -1,0 +1,11 @@
+main{
+    height: 100vh;
+}
+
+h1{
+    font-size: 150px;
+}
+
+button{
+    min-width: 200px;
+}
